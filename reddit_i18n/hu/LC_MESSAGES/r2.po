@@ -28,7 +28,7 @@ msgstr ""
 
 #: r2/controllers/api.py:139
 msgid "thanks for your message! you should hear back from us shortly."
-msgstr "Köszönjük az üzenetedet! Hamarosan jelentkezünk!"
+msgstr "köszönjük az üzenetedet! hamarosan jelentkezünk!"
 
 #: r2/controllers/api.py:167
 msgid "your message has been delivered"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: r2/controllers/api.py:550 r2/controllers/promotecontroller.py:394
 msgid "added"
-msgstr ""
+msgstr "hozzáadva"
 
 #: r2/controllers/api.py:577 r2/controllers/api.py:1089
 #: r2/controllers/api.py:1247 r2/controllers/api.py:1362
@@ -56,7 +56,7 @@ msgstr "elmentve"
 
 #: r2/controllers/api.py:609
 msgid "you should be getting a verification email shortly."
-msgstr ""
+msgstr "a visszaigazoló e-mail hamarosan megérkezik."
 
 #: r2/controllers/api.py:611
 msgid "your email has been updated"
@@ -72,15 +72,15 @@ msgstr "a jelszavadat frissítettük"
 
 #: r2/controllers/api.py:901
 msgid "replied"
-msgstr ""
+msgstr "megválaszolva"
 
 #: r2/controllers/api.py:962
 msgid "shared"
-msgstr ""
+msgstr "megosztva"
 
 #: r2/controllers/api.py:965
 msgid "your link has been shared."
-msgstr ""
+msgstr "a linked meg lett osztva"
 
 #: r2/controllers/api.py:1065
 msgid "validation errors"
@@ -94,40 +94,40 @@ msgstr "törölve"
 
 #: r2/controllers/api.py:1215 r2/templates/subredditstylesheet.html:199
 msgid "bad image name"
-msgstr ""
+msgstr "rossz kép név"
 
 #: r2/controllers/api.py:1219
 #, python-format
 msgid "too many images (you only get %d)"
-msgstr ""
+msgstr "túl sok kép (csak %d-t kapsz)"
 
 #: r2/controllers/api.py:1227
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Rossz kép vagy általános kép giba"
 
 #: r2/controllers/api.py:1682
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "átvéve! most menj valaki felhasználói oldalára és adj neki egy ajándékot!"
 
 #: r2/controllers/api.py:1687
 msgid "claimed!"
-msgstr ""
+msgstr "átvéve!"
 
 #: r2/controllers/api.py:1703
 msgid "an email will be sent to that account's address shortly"
-msgstr ""
+msgstr "hamarosan egy e-mail érkezik a megadott e-mail címre"
 
 #: r2/controllers/api.py:1705
 msgid "try again tomorrow"
-msgstr ""
+msgstr "próbáld meg újra holnap"
 
 #: r2/controllers/api.py:1932 r2/controllers/api.py:2113
 msgid "invalid css class"
-msgstr ""
+msgstr "helytelen css class"
 
 #: r2/controllers/api.py:1935 r2/controllers/api.py:2116
 msgid "too many css classes"
-msgstr ""
+msgstr "túl sok css class"
 
 #: r2/controllers/api.py:2132
 msgid "max flair templates reached"
@@ -152,15 +152,15 @@ msgstr "beküldés"
 
 #: r2/controllers/embed.py:65
 msgid "edit this page"
-msgstr ""
+msgstr "szerkeszd ezt az oldalt"
 
 #: r2/controllers/embed.py:66
 msgid "yes, it's okay!"
-msgstr ""
+msgstr "igen, ez OK"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr ""
+msgstr "csak  olvasd el ezt először."
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:425
 #: r2/templates/frametoolbar.html:107
@@ -170,23 +170,23 @@ msgstr "segítség"
 #: r2/controllers/error.py:141
 #, python-format
 msgid "forbidden (%(domain)s)"
-msgstr ""
+msgstr "tiltott (%(domain)s)"
 
 #: r2/controllers/error.py:162
 msgid "this reddit has been banned"
-msgstr ""
+msgstr "ez a reddit le lett tiltva"
 
 #: r2/controllers/errors.py:27
 msgid "please login to do that"
-msgstr ""
+msgstr "kérlek jelentkezz be, mielőtt ezt tehesd"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
-msgstr ""
+msgstr "valódi e-mail cím kell, hogy ezt tehesd"
 
 #: r2/controllers/errors.py:29
 msgid "a url is required"
-msgstr ""
+msgstr "meg kell adnod egy URL-t"
 
 #: r2/controllers/errors.py:30
 msgid "you should check that url"
@@ -194,7 +194,7 @@ msgstr "ellenőrizd ezt az URL-t"
 
 #: r2/controllers/errors.py:31
 msgid "care to try these again?"
-msgstr ""
+msgstr "beírnád mégegyszer?"
 
 #: r2/controllers/errors.py:32
 msgid "invalid user name"
@@ -206,11 +206,11 @@ msgstr "ezt a felhasználónevet már valaki használja"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "ezt a felhasználónevet egy törölt fiók birtokolja"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "nem üzenhetsz letiltott felhasználónak"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -226,11 +226,11 @@ msgstr ""
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "a link amire válaszolni akartál törlésre került"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
-msgstr ""
+msgstr "ez a válasz törlésre került"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
@@ -238,7 +238,7 @@ msgstr ""
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "ez a jelszó nem elfogadható"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
@@ -747,7 +747,7 @@ msgstr ""
 
 #: r2/lib/menus.py:49
 msgid "most controversial"
-msgstr ""
+msgstr "leg vitatottabb"
 
 #: r2/lib/menus.py:51 r2/lib/menus.py:67
 msgid "recommended"
@@ -791,11 +791,11 @@ msgstr "fontosság"
 
 #: r2/lib/menus.py:64 r2/templates/buttontypes.html:191
 msgid "controversial"
-msgstr ""
+msgstr "vitatott"
 
 #: r2/lib/menus.py:65
 msgid "best"
-msgstr ""
+msgstr "legjobbak"
 
 #: r2/lib/menus.py:66
 msgid "saved {toolbar}"
@@ -1040,7 +1040,7 @@ msgstr "info"
 #: r2/lib/menus.py:150 r2/templates/printablebuttons.html:164
 #: r2/templates/sharelink.html:94
 msgid "share"
-msgstr ""
+msgstr "megosztás"
 
 #: r2/lib/menus.py:152
 msgid "overview"
@@ -1052,11 +1052,11 @@ msgstr "beküldve"
 
 #: r2/lib/menus.py:154
 msgid "liked"
-msgstr "tetszik"
+msgstr "tetszett"
 
 #: r2/lib/menus.py:155
 msgid "disliked"
-msgstr "nem tetszik"
+msgstr "nem tetszett"
 
 #: r2/lib/menus.py:156
 msgid "hidden {toolbar}"
@@ -1108,11 +1108,11 @@ msgstr ""
 
 #: r2/lib/menus.py:170
 msgid "rejected"
-msgstr ""
+msgstr "visszautasítva"
 
 #: r2/lib/menus.py:172
 msgid "whitelist"
-msgstr ""
+msgstr "fehérlista"
 
 #: r2/lib/menus.py:420
 msgid "sorted by"
